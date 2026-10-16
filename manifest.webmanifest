@@ -1,0 +1,1 @@
+{"name":"Veille Emploi Public","short_name":"Veille Emploi","description":"Veille personnalisée des offres d'emploi public","lang":"fr-FR","start_url":"/","scope":"/","display":"standalone","orientation":"portrait-primary","background_color":"#f5f6f1","theme_color":"#163b35","icons":[{"src":"/icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
